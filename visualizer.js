@@ -1,6 +1,6 @@
 //Note: bins needs to be a power of 2
 let displayBins = 512;
-let backgroundColour = "#2C2E3B";
+let backgroundColour = "#fff";
 let barColour = "#EC1A55";
 let songFont = "15px 'Open Sans'";
 //Where the bottom of the waveform is rendered at (out of 255). I recommend
